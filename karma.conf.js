@@ -29,7 +29,7 @@ module.exports = function(config) {
     // preprocess matching files before serving them to the browser
     // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
     preprocessors: {
-      'build/easing.js': ['coverage'],
+      'build/parse-stagger-property.js': ['coverage'],
       'spec/*.spec.babel.js': ['webpack'],
     },
 
