@@ -1,0 +1,1 @@
+# mojs-util-class-proto
